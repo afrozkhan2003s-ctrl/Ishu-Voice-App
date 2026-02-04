@@ -1,2 +1,0 @@
-# Ishu-Voice-App
-Ishu 
